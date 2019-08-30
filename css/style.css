@@ -1,0 +1,25 @@
+
+/*body{*/
+/*    text-align: center;*/
+/*}*/
+
+p{
+    text-decoration: underline;
+    margin: 25px;
+    text-align: left;
+}
+
+div.header{
+    max-width: 800px;
+    min-width: 600px;
+    border: black solid 1px;
+    border-radius: 15px;
+    margin: 30px auto;
+    background-color: yellow;
+}
+
+div.header h1{
+    font-size: 15px;
+    text-align: center;
+    color: #333;
+}
